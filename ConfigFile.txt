@@ -1,8 +1,0 @@
-# For Comment on this config file
-DB_URL=jdbc:mysql://localhost:3306/kbank_nms_ws
-DB_USERNAME=root
-DB_PASSWORD=
-WEBSERVICE_URL=http://10.208.50.110:8080/spectrum/restful/alarms
-WEBSERVICE_USERNAME=spectrum
-WEBSERVICE_PASSWORD=spectrum
-WEBSERVICE_METHOD=POST
